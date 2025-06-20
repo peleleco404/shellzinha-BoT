@@ -47,7 +47,7 @@ async function handleCommands(msg) {
   if (!isAdmin) return;
 
   if (text === "!menu") {
-    return chat.sendMessage(`Shellzinha - Bot || by: *cryptoxxz7 👨‍💻*\n
+    return chat.sendMessage(`Shellzinha - Bot || by: *zk-coder 👨‍💻*\n
 |[1]  🤖 *!menu* - Mostrar todos os comandos
 |[2]  ℹ️ *!info* - Info do grupo
 |[3]  👮 *!admins* - Ver admins do grupo
