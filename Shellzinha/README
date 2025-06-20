@@ -14,7 +14,9 @@ Passo a passo para rodar o bot:
    npm install whatsapp-web.js
    npm install qrcode-terminal
 
-3. Depois que instalar, inicie o bot com:
+3. Depois que instalar rode:
+    cd shellzinha 
+inicie com: 
    node shell.js
 
 4. Vai aparecer um QR Code no terminal. Escaneie com seu WhatsApp e pronto 🎉
