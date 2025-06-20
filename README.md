@@ -8,7 +8,7 @@ Passo a passo para rodar o bot:
 
 1. Abra o terminal (CMD, PowerShell, Bash etc.) na pasta onde está o bot.
 
-2. Digite o seguinte comando para instalar as dependências do projeto:                 
+2. Digite o seguinte comando para instalar as dependências do projeto:                                                                                    
    npm init -y
    npm install
    npm install whatsapp-web.js
