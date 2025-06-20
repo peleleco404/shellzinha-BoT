@@ -146,7 +146,7 @@ async function handleCommands(msg) {
   }
 
   if (text === "!criador") {
-    return chat.sendMessage(`Bot original criado por *cryptoxxz7*`);
+    return chat.sendMessage(`Bot original criado por *zk-coder 👨‍💻*`);
   }
 }
 
